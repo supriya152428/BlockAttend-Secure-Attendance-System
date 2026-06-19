@@ -18,9 +18,8 @@ BlockAttend is a secure attendance management system built with React, Node.js, 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65c9f18e-5364-47ff-a15e-f9aa64892424" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc313793-58f8-420c-8c90-51c39fa75afe" />
+<img width="1881" height="882" alt="image" src="https://github.com/user-attachments/assets/4de9b65c-51d2-42a1-8be6-71f0cacc090e" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a26570a6-b672-4e9b-98d1-364b7514826b" />
 
 
 ## Tech Stack
