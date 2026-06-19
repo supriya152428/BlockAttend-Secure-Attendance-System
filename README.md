@@ -4,13 +4,15 @@ BlockAttend is a secure attendance management system built with React, Node.js, 
 
 ## Features
 
-* Secure JWT Authentication
+* JWT Authentication & Authorization
 * Role-Based Access Control
-* Attendance Management
+* Attendance Management System
 * Attendance Analytics Dashboard
-* AI Risk Alerts
-* SHA-256 Record Hashing
-* PostgreSQL Database
+* AI-Based Risk Alerts
+* Face Attendance Verification
+* SHA-256 Record Integrity Verification
+* PostgreSQL Database Management
+* Activity Logging & Monitoring
 
 ## Images
 
